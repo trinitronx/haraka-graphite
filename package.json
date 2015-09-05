@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/trinitronx/haraka-graphite/issues"
   },
-  "homepage": "https://github.com/trinitronx/haraka-graphite"
+  "homepage": "https://github.com/trinitronx/haraka-graphite",
+  "dependencies": {
+    "nopt"          : "~3.0.1",
+    "daemon"        : "~1.1.0",
+    "npid"          : "~0.4.0",
+    "graphite-udp"  : "~0.1.3"
+  }
 }
