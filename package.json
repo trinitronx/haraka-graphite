@@ -1,0 +1,29 @@
+{
+  "name": "haraka-graphite",
+  "version": "0.0.1",
+  "description": "Export Haraka Email Server stats to Graphite",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run_tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trinitronx/haraka-graphite.git"
+  },
+  "keywords": [
+    "haraka",
+    "smtp",
+    "server",
+    "email",
+    "graphite",
+    "metrics",
+    "stats",
+    "statistics"
+  ],
+  "author": "James Cuzella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trinitronx/haraka-graphite/issues"
+  },
+  "homepage": "https://github.com/trinitronx/haraka-graphite"
+}
